@@ -2,7 +2,7 @@
 
 🔭 I’m currently working on completing a certificate for Fullstack Java Software Developtment through We Can Code IT. 
 
-🌱 I’m currently learning about API's. 
+🌱 I’m currently working on my final project. 
 
 💬 Ask me about any projects I've completed or am currently working on.
 
